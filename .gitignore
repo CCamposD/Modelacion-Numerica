@@ -1,0 +1,8 @@
+# Ignorar TP1 porque está vinculado a otro repositorio
+TP1-Maquina-MN/
+
+# (otros ignores opcionales)
+*.log
+*.tmp
+__pycache__/
+.env
