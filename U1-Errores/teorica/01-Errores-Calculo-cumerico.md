@@ -2,7 +2,7 @@
 
 ## Fuentes de error y su propagación
 
-![Ejemplo de Montaña](/U1-Errores/imgs/ejemplo-mountain.png)
+![Ejemplo de Montaña](/U1-Errores/imgs/modulo01/ejemplo-mountain.png)
 
 
 **Problema:** Deseamos calcular la altura de una montaña d(B,C)
@@ -66,25 +66,45 @@ El error absoluto / el valor medido
 
 Esto nos da una ídea de la calidad de la medición
 
-![Errores](/U1-Errores/imgs/error.png)
+![Errores](/U1-Errores/imgs/modulo01/error.png)
 
 
 ### Cota del error absoluto y relativo
 
 Siempre es positivo, por lo general conocemos o deberiamos conocer
 
-![Cotas](/U1-Errores/imgs/cota.png)
+![Cotas](/U1-Errores/imgs/modulo01/cota.png)
 
 ### Dos maneras de expresar el resultado numérico
 
-![Formas de expresar](/U1-Errores/imgs/formas-expresar.png)
+![Formas de expresar](/U1-Errores/imgs/modulo01/formas-expresar.png)
 
 
 1) Valor medido +- la cota 
 
 Ejemplos para escribir el resultado.
 
-![Ejemplo para escribir el resultado](/U1-Errores/imgs/ejemplo-escribir-resultado.png)
+![Ejemplo para escribir el resultado](/U1-Errores/imgs/modulo01/ejemplo-escribir-resultado-2D.png)
 
 
+Otro ejemplo.
 
+![Ejemplo para escribir el resultado](/U1-Errores/imgs/modulo01/ejemplo-escribir-resultado-3D.png)
+
+Reglas prácticas para expresar el resultado numérico
+
+![Ejemplo para escribir el resultado](/U1-Errores/imgs/modulo01/reglas-practicas-expresar-resultado.png)
+
+## Propagación de errores inherentes
+
+### De una variable 
+
+![Propagación de errores inherentes de una variable](/U1-Errores/imgs/modulo01/error-inherentes-una-variable.png)
+
+![Cota en la propagación de errores inherentes de una variable](/U1-Errores/imgs/modulo01/cota-error-inherente-una-variable.png)
+
+### Varias variables
+
+![Propagación de errores inherentes de varias variable](/U1-Errores/imgs/modulo01/error-inherentes-varias-variables.png)
+
+![Cota en la propagación de errores inherentes de varias variable](/U1-Errores/imgs/modulo01/cota-error-inherente-varias-variables.png)
